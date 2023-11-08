@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\drugiZadatak\bin\Debug\drugiZadatak.exe.config
+C:\Users\ucenik\source\repos\drugiZadatak\bin\Debug\drugiZadatak.exe
+C:\Users\ucenik\source\repos\drugiZadatak\bin\Debug\drugiZadatak.pdb
+C:\Users\ucenik\source\repos\drugiZadatak\obj\Debug\drugiZadatak.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\drugiZadatak\obj\Debug\drugiZadatak.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\drugiZadatak\obj\Debug\drugiZadatak.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\drugiZadatak\obj\Debug\drugiZadatak.exe
+C:\Users\ucenik\source\repos\drugiZadatak\obj\Debug\drugiZadatak.pdb
